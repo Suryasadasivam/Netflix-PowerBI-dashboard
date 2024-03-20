@@ -14,3 +14,5 @@ This Power BI project is structured around several key tasks designed to unlock 
 - Identifying Movies and TV Shows by Release Years
 - Total Number of Movies and TV Shows
 - Identifying Top 10 Countries by Movies and TV Shows
+
+<img width="497" alt="netflix" src="https://github.com/Suryasadasivam/Netflix-PowerBI-dashboard/assets/162082177/d419bbc0-821e-474b-b83a-bd32f4e1994b">
